@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LINES.dir/lines.c.o -o LINES 

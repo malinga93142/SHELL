@@ -1,0 +1,3 @@
+/home/rootme/comp_design/lex/regex/shell/CMakeFiles/LINES.dir
+/home/rootme/comp_design/lex/regex/shell/CMakeFiles/edit_cache.dir
+/home/rootme/comp_design/lex/regex/shell/CMakeFiles/rebuild_cache.dir
